@@ -2,10 +2,8 @@
 This is a neural network from scratch. It uses mathematical formula to adjust parameters during training. After training it classify 28 X 28 pixel image into one of the digits with an accuracy of 85%.
 
 # How prediction is made:
-
-![alt_text](https://github.com/Shadab-ju/neural_netwrok/blob/main/digit_img.png)  
-
-Above image has 784 pixel that is stored in __array[28][28]__.
+  
+images have 784 pixel that is stored in __array[28][28]__.
 This image data is fed to the model after traing and model predicts a digit based on array value.
 
 
